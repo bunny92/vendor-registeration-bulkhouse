@@ -18,19 +18,19 @@
                 <div class="large-12 columns show-for-large-only" style="position: absolute; padding: 100px 0px;">
                     <div class="large-3 columns right zeropadding" style="background-color: white; margin-right: 40px">
                         <div class="large-12 columns zeropadding" style="min-height: 30px; background-color: #E80000; margin-bottom: 20px"></div>
-                        <?php $this->load->view('seller_first_form'); ?>
+                        <?php $this->load->view('forms/seller_first_form'); ?>
                     </div>
                 </div>
                 <div class="large-12 columns show-for-medium-only" style="position: absolute; padding: 100px 0px;">
                     <div class="medium-6 medium-centered columns zeropadding" style="background-color: white;">
                         <div class="large-12 columns zeropadding" style="min-height: 30px; background-color: #E80000; margin-bottom: 20px"></div>
-                        <?php $this->load->view('seller_first_form'); ?>
+                        <?php $this->load->view('forms/seller_first_form'); ?>
                     </div>
                 </div>
                 <div class="large-12 columns show-for-small" style="position: absolute; padding: 60px 0px;">
                     <div class="small-8 small-centered columns zeropadding" style="background-color: white;">
                         <div class="large-12 columns zeropadding" style="min-height: 30px; background-color: #E80000; margin-bottom: 20px"></div>
-                        <?php $this->load->view('seller_first_form'); ?>
+                        <?php $this->load->view('forms/seller_first_form'); ?>
                     </div>
                 </div>
 
