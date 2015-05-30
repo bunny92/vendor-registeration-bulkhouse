@@ -42,7 +42,11 @@
             <div class="large-12 columns zeropadding" style="background-color: #5c5b99; height: 200px">
                     <p>This is footer</p>
             </div>
+
+            <div class="large-12 columns">this is me </div>
+
             <div class="large-5">what</div>
+
 
         </div>
 
