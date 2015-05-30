@@ -2,7 +2,7 @@
         <?php $this->load->view('template/header'); ?>
         <div class="row-fluid">
 
-            <div class="large-12 columns zeropadding" style="min-height: 400px; background-image: url('http://www.3dcart.com/images/sell-online_2012/banner.jpg');
+            <div class="large-12 columns zeropadding" style="min-height: 400px; background-image: url('img/main-banner.jpg');
                  background-size: cover">
 
                 <div class="large-12 columns show-for-large-only" style="position: absolute; padding: 100px 0px;">
