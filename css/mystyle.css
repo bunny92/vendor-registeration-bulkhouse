@@ -1,0 +1,11 @@
+
+.zeropadding{
+    padding: 0px;
+}
+
+
+
+[data-magellan-expedition], [data-magellan-expedition-clone]{
+    background-color:#e80000;
+    height: 100px
+}
