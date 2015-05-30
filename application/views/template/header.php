@@ -12,8 +12,8 @@
 <div class="row-fluid">
     <div data-magellan-expedition="fixed" class="large-12 columns zeropadding">
 
-        <div class="large-9 medium-7 columns">.</div>
-        <div class="large-3 medium-5 columns">
+        <div class="large-7 medium-7 columns" style="margin-top: 30px">.</div>
+        <div class="large-5 medium-5 columns" style="margin-top: 30px">
             <?php $this->load->view('forms/login_form'); ?>
         </div>
 

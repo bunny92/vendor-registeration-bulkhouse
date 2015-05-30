@@ -1,24 +1,24 @@
 <form>
-    <div class="row" style="padding-top: 5px">
-        <div class="row">
-            <div class="small-4 columns">
+    <div class="row-fluid">
 
-                <input type="text" id="right-label" placeholder="Inline Text Input">
+        <div class="large-4 columns zeropadding">
 
-            </div>
+            <input type="text" placeholder="Inline Text Input" />
 
-            <div class="small-4 columns">
+        </div>
 
-                <input type="text" id="right-label" placeholder="Inline Text Input">
+        <div class="large-4 columns zeropadding">
 
-            </div>
+            <input type="text" placeholder="Inline Text Input" />
+
+        </div>
 
 
-            <div class="large-4 columns zeropadding">
+        <div class="large-4 columns zeropadding">
 
-                <input class="button expand tiny" type="button" value="Start Selling" style="margin: 0px"/>
+            <input class="button rounded small" type="button" value="Log in" />
 
-            </div>
+
         </div>
     </div>
 </form>
