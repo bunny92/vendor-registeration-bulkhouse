@@ -1,24 +1,17 @@
 <form>
-    <div class="row-fluid">
-
-        <div class="large-4 columns zeropadding">
-
-            <input type="text" placeholder="Inline Text Input" />
-
+    <div class="row">
+    <div class="large-12 columns">
+      <div class="row collapse">
+        <div class="small-5 columns">
+          <input type="text" placeholder="Email Id">
         </div>
-
-        <div class="large-4 columns zeropadding">
-
-            <input type="text" placeholder="Inline Text Input" />
-
+          <div class="small-5 columns">
+          <input type="password" placeholder="Password">
         </div>
-
-
-        <div class="large-4 columns zeropadding">
-
-            <input class="button rounded small" type="button" value="Log in" />
-
-
+        <div class="small-2 columns">
+            <input type="button" value="Log-in" class="button postfix">
         </div>
+      </div>
     </div>
+  </div>
 </form>
