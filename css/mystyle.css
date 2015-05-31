@@ -26,3 +26,5 @@
   width: auto;
   z-index: 2;
 }
+
+.footer{background-color:#2c2c49;position: fixed; bottom: 0px; padding: 10px;}

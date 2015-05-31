@@ -10,7 +10,7 @@
     </head>
     <body>
 <div class="row-fluid">
-    <div data-magellan-expedition="fixed" class="large-12 columns zeropadding">
+    <div data-magellan-expedition="fixed" class="large-12 columns zeropadding" >
         <div class="row-fluid">
             <div class="large-6 medium-6 columns" style="margin-top: 20px">
 
