@@ -3,6 +3,7 @@
 class Home extends CI_Controller {
 
     private $site_name;
+    private $copyrite_year;
 
     public function __construct() {
         parent::__construct();
@@ -12,7 +13,6 @@ class Home extends CI_Controller {
 
 	public function index()
 	{
-
                 $data['title'] = $this->site_name."Welcome";
                 $data['copyrite_year'] = $this->copyrite_year;
                 $this->load->view('template/header',$data);

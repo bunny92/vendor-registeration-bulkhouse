@@ -3,6 +3,7 @@
 class Register extends CI_Controller {
 
     private $site_name;
+    private $copyrite_year;
 
     public function __construct() {
         parent::__construct();
@@ -10,10 +11,9 @@ class Register extends CI_Controller {
         $this->copyrite_year = "2015";
     }
 
-	public function index()
+            public function index()
 
         {
-
                 $data['title'] = $this->site_name."Register";
                 $data['copyrite_year'] = $this->copyrite_year;
                 $this->load->view('template/header',$data);
